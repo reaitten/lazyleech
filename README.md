@@ -4,14 +4,13 @@
 “	Heroku Supported Telegram Torrent Leeching Bot by Some Weebs ” 
 </p>
 
-# Table of Content
+# Table of Contents
 - [WHAT IS THIS REPO ABOUT ?](#what-is-this-repo-about)
 - [FEATURES](#features)
 - [BOT COMMANDS](#bot-commands)
 - [TEST THE BOT (DEMO)](https://t.me/joinchat/HC7YmklXMSRPH3N2)
 - [CREDITS](#credits-)
 - [POINTS TO BE NOTED](#points-to-be-noted)
-
 
 # What is this repo about?
 This is a telegram bot writen with pyrogram for leeching files on the internet to Telegram.
@@ -28,6 +27,10 @@ This is a telegram bot writen with pyrogram for leeching files on the internet t
 - Can List All your Ongoing Leeches.
 - Advanced ytdl
 - Docker support.
+
+# Deployment
+## Heroku
+<p><a href="https://heroku.com/deploy?template=https://github.com/reaitten/lazyleech"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## Bot Commands
 
