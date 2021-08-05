@@ -29,6 +29,7 @@ LICHER_PARSE_EPISODE = LICHER_PARSE_EPISODE and LICHER_PARSE_EPISODE != '0'
 PROGRESS_UPDATE_DELAY = int(os.environ.get('PROGRESS_UPDATE_DELAY', 5))
 MAGNET_TIMEOUT = int(os.environ.get('LEECH_TIMEOUT', 60))
 LEECH_TIMEOUT = int(os.environ.get('LEECH_TIMEOUT', 300))
+ARIA2_SECRET = os.environ.get('ARIA2_SECRET', '')
 
 logging.basicConfig(level=logging.INFO)
 app = Client('lazyleech', API_ID, API_HASH, plugins={'root': os.path.join(__package__, 'plugins')}, bot_token=BOT_TOKEN, test_mode=TESTMODE, parse_mode='html', sleep_threshold=30)

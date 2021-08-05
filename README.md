@@ -2,6 +2,9 @@
 
 <p align="center">
 “	Heroku Supported Telegram Torrent Leeching Bot by Some Weebs ” 
+
+## More features on [personal-tweak](https://github.com/lostb053/lazyleech/tree/personal-tweak) branch
+
 </p>
 
 # Table of Contents
@@ -84,7 +87,9 @@ testwatermark
 
 ## Credits 📍
 
-[@TheKneesocks](https://t.me/TheKneesocks)
+[@TheKneesocks](https://t.me/TheKneesocks)<br>
+[@DeletedUser420](https://t.me/DeletedUser420)<br>
+[WeebTime](https://github.com/WeebTime) on github for his [repo](https://github.com/WeebTime/Torrent-Bot-Lazyleech)
 
 ## Points To Be Noted 
 

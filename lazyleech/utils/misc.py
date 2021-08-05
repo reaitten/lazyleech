@@ -77,6 +77,7 @@ async def split_files(filename, destination_dir, no_ffmpeg=False):
     stdout, _ = await proc.communicate()
     return shlex.split(' '.join([i[14:] for i in stdout.decode().strip().split('\n')]))
 
+
 video_duration_cache = dict()
 video_duration_lock = asyncio.Lock()
 async def get_video_info(filename):
